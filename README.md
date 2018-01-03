@@ -1,8 +1,8 @@
-###课程地址：
+#课程地址：<\br>
 https://jersey.github.io/documentation/latest/rx-client.html#d0e5556
-练习要求：
+练习要求：<\br>
 
-###**1.依据文档图6-1，用中文描述 Reactive 动机**
+#**1.依据文档图6-1，用中文描述 Reactive 动机**<\br>
 图6-1：
 ![这里写图片描述](http://img.blog.csdn.net/20180103134259242?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzY4MTY5MTI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 简单描述为：一个用户同时申请多个服务，直观上可以为每一个服务都发送一次申请，但是这样不利于效率工作。使用无扩展的客户服务之后，用户只需要为所有的服务申请一次即可得到所有的响应，提高了效率。
