@@ -22,7 +22,7 @@ https://jersey.github.io/documentation/latest/rx-client.html#d0e5556
 使用第一种方法：</br>
 
 ![这里写图片描述](http://img.blog.csdn.net/20180103135819738?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzY4MTY5MTI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-使用第二种方法：</br>
+</br>使用第二种方法：</br>
 ![这里写图片描述](http://img.blog.csdn.net/20180103135844851?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzY4MTY5MTI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 </br>对比：</br>
 第一种方法比第二种方法明显处理时间要长许多，在运行过程可以观察到第一种方法得出结果之前需要几秒的延迟，而第二种方法几乎没有延迟。
