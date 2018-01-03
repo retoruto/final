@@ -1,6 +1,6 @@
 课程地址：</br>
 https://jersey.github.io/documentation/latest/rx-client.html#d0e5556
-练习要求：</br>
+</br>练习要求：</br>
 
 **1.依据文档图6-1，用中文描述 Reactive 动机**</br>
 图6-1：
